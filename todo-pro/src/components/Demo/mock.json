@@ -1,0 +1,177 @@
+[
+    {
+        "id": "PROD001",
+        "name": "智能手机 S25",
+        "category": "电子产品",
+        "status": "已完成",
+        "price": 7999.00
+    },
+    {
+        "id": "PROD002",
+        "name": "高定西装",
+        "category": "服装",
+        "status": "待发货",
+        "price": 2500.00
+    },
+    {
+        "id": "PROD003",
+        "name": "React权威指南",
+        "category": "书籍",
+        "status": "已取消",
+        "price": 128.50
+    },
+    {
+        "id": "PROD004",
+        "name": "无线蓝牙耳机 Pro",
+        "category": "电子产品",
+        "status": "已完成",
+        "price": 999.00
+    },
+    {
+        "id": "PROD005",
+        "name": "夏季连衣裙",
+        "category": "服装",
+        "status": "待付款",
+        "price": 359.00
+    },
+    {
+        "id": "PROD006",
+        "name": "设计模式解析",
+        "category": "书籍",
+        "status": "待发货",
+        "price": 89.90
+    },
+    {
+        "id": "PROD007",
+        "name": "4K 超高清电视",
+        "category": "电子产品",
+        "status": "已完成",
+        "price": 5999.00
+    },
+    {
+        "id": "PROD008",
+        "name": "男士休闲裤",
+        "category": "服装",
+        "status": "已发货",
+        "price": 280.00
+    },
+    {
+        "id": "PROD009",
+        "name": "前端开发实战",
+        "category": "书籍",
+        "status": "已完成",
+        "price": 150.00
+    },
+    {
+        "id": "PROD010",
+        "name": "智能手表 Ultra",
+        "category": "电子产品",
+        "status": "待发货",
+        "price": 2499.00
+    },
+    {
+        "id": "PROD011",
+        "name": "女士羊绒大衣",
+        "category": "服装",
+        "status": "已完成",
+        "price": 1800.00
+    },
+    {
+        "id": "PROD012",
+        "name": "算法导论（第三版）",
+        "category": "书籍",
+        "status": "已取消",
+        "price": 299.00
+    },
+    {
+        "id": "PROD013",
+        "name": "游戏笔记本 RTX4090",
+        "category": "电子产品",
+        "status": "待付款",
+        "price": 12999.00
+    },
+    {
+        "id": "PROD014",
+        "name": "儿童卡通T恤",
+        "category": "服装",
+        "status": "已发货",
+        "price": 99.00
+    },
+    {
+        "id": "PROD015",
+        "name": "科幻小说集",
+        "category": "书籍",
+        "status": "已完成",
+        "price": 75.00
+    },
+    {
+        "id": "PROD016",
+        "name": "便携式移动电源",
+        "category": "电子产品",
+        "status": "已完成",
+        "price": 189.00
+    },
+    {
+        "id": "PROD017",
+        "name": "运动紧身裤",
+        "category": "服装",
+        "status": "待发货",
+        "price": 169.00
+    },
+    {
+        "id": "PROD018",
+        "name": "历史人文读本",
+        "category": "书籍",
+        "status": "已完成",
+        "price": 65.00
+    },
+    {
+        "id": "PROD019",
+        "name": "智能家居套装",
+        "category": "电子产品",
+        "status": "已取消",
+        "price": 3500.00
+    },
+    {
+        "id": "PROD020",
+        "name": "品牌休闲鞋",
+        "category": "服装",
+        "status": "待付款",
+        "price": 450.00
+    },
+    {
+        "id": "PROD021",
+        "name": "儿童绘本系列",
+        "category": "书籍",
+        "status": "已发货",
+        "price": 55.00
+    },
+    {
+        "id": "PROD022",
+        "name": "高清网络摄像头",
+        "category": "电子产品",
+        "status": "已完成",
+        "price": 320.00
+    },
+    {
+        "id": "PROD023",
+        "name": "真丝睡衣套装",
+        "category": "服装",
+        "status": "已完成",
+        "price": 880.00
+    },
+    {
+        "id": "PROD024",
+        "name": "金融投资入门",
+        "category": "书籍",
+        "status": "待发货",
+        "price": 110.00
+    },
+    {
+        "id": "PROD025",
+        "name": "便携式投影仪",
+        "category": "电子产品",
+        "status": "已取消",
+        "price": 2999.00
+    }
+]

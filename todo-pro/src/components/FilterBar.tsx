@@ -243,7 +243,7 @@ export function FilterBar() {
   }, []);
 
   return (
-      <div>
+      <div className="filterbar">
         {/* 页头 */}
         <header className="filterbar-header">
           <div className="header-left">

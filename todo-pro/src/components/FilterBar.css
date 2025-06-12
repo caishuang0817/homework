@@ -127,7 +127,9 @@ body {
   object-fit: cover;
   border-radius: 16px;
 }
-
+.filterbar{
+  background: #18181c;
+}
 .filterbar-header {
   display: flex;
   justify-content: space-between;
